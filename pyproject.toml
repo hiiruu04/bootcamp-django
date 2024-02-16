@@ -1,0 +1,15 @@
+[project]
+name = "bootcamp-django"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "hiiruu04", email = "hilmanherdiana@outlook.com"},
+]
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
